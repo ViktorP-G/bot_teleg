@@ -1,1 +1,1 @@
-Telegram_Token = "8473345882:AAHz0hJ3tvxULRU1fhCJazLgFj9IJK46lIY"
+Telegram_Token = "****************************"
